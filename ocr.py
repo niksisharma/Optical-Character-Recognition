@@ -1,7 +1,5 @@
 import pytesseract
 import cv2
-import numpy as np
-import matplotlib as plt
 
 pytesseract.pytesseract.tesseract_cmd ='C:\\Users\\Nikita Sharma\\Tesseract\\tesseract.exe'
 
